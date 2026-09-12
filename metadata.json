@@ -1,0 +1,6 @@
+{
+  "name": "Wisata Islami Kareem",
+  "description": "Biro perjalanan haji khusus dan umrah terpercaya Wisata Islami Kareem (سياحة إسلامي كريم) dengan izin resmi Kemenag RI, katalog paket berizin PPIU, kalkulator biaya, dan tracking manasik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
